@@ -1,0 +1,5 @@
+{
+  "name": "Drift.js Mobile",
+  "description": "A mobile-first, high-performance 2D drifting game ported to React. Features physics-based driving, customizable settings, and responsive touch controls.",
+  "requestFramePermissions": []
+}
